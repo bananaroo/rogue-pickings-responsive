@@ -128,16 +128,11 @@ header nav ul li a {
 }
 
 .section-one h3 {
-	padding: 10px 0;
+	padding: 5px 0;
 }
 
 .section-two {
 	padding: 10px 0;
-}
-
-.section-two h3,
-.section-three h3 {
-	padding: 10px 30px;
 }
 
 .menu {
@@ -153,17 +148,19 @@ header nav ul li a {
 	color: #333;
 	font-size: 1em;
 	line-height: 1.3125em;
+	padding: 0;
 }
 
 .address {
 	font-size: 1em;
 	line-height: 1.5em;
+	padding: 0;
 }
 
 /*The widths are in a percentage!*/
 footer {
 	border-top: 3px solid #eee;
-	width: 100%
+	width: 100%;
 	text-align: center;
 	display: flex;
 	justify-content: center;
