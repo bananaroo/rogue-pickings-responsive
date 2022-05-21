@@ -30,6 +30,7 @@ h3 {
 }
 h1 {
 	font-size: 1.875em;
+	white-space: nowrap;
 }
 h2 {
 	font-size: 1.125em;
